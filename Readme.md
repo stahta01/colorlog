@@ -23,3 +23,5 @@ Depending on the log level, output is colorized as follows:
 Suppose we have a file called <tt>foo.log</tt> to which our program is actively writing logging information,
 one could use the <tt>tail</tt> program, piped through the <tt>colorlog</tt> program to follow the logging output:
 <tt>$ tail -f foo.log | colorlog</tt>
+
+![Sample output](screenshot.png "Sample output")
