@@ -1,6 +1,6 @@
 ## Colorlog
 Simple utility to colorize typical logging output using ANSI escape codes. The functionality is inspired by the
-GrepCode plugin for Eclipse and IDEA. In contrast to those plugins, this program is intended to use in a terminal window.
+GrepConsole plugin for Eclipse and IDEA. In contrast to those plugins, this program is intended to use in a terminal window.
 
 ## Logging format
 Input is read from <tt>stdin</tt> and analyzed line-by-line for the following 'log level' tags:
